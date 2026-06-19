@@ -2,3 +2,11 @@
 .vscode/launch.json
 .vscode/settings.json
 .DS_Store
+src/Market.o
+.gitignore
+terminal
+main.o
+src/ConsoleUI.o
+src/FileManager.o
+src/Asset.o
+src/GameManager.o
