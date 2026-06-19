@@ -1,4 +1,4 @@
-# 🔄 Crypto
+# 🔄 CryptOreo
 **Высокопроизводительное модульное ядро криптовалютной биржи на C++**
 
 ![C++](https://img.shields.io/badge/C++-17-blue.svg?style=flat&logo=c%2B%2B)
